@@ -25,7 +25,8 @@
 
 <br>
 <h1>Description</h1>
-<table>
+<p>
+<table> 
   <thead>
     <tr>
       <th>#</th>
@@ -67,7 +68,9 @@
 <tr><td>28</td><td>Q28.cpp</td><td>Computes the discriminant using the formula disc equals b squared minus 4ac.</td></tr>
 <tr><td>29</td><td>Q29.cpp</td><td>Checks if a variable is greater than 100 and prints a message if true.</td></tr>
 <tr><td>30</td><td>Q30.cpp</td><td>Tests whether a number is odd or even using a simple if condition.</td></tr>
-<h2>How to run the Cpp Code?</h2>
+<br>
+</p>
+<h3>How to run the Cpp Code?</h3>
 <ol>
   <li>Install a C++ compiler such as MinGW for Windows or use g++ on Linux and Mac.</li>
   <li>Open the terminal and navigate to the folder containing your C++ file using the <b>cd</b> command.</li>
