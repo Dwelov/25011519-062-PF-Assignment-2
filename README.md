@@ -1,3 +1,5 @@
+<h1> Introduction</h1>
+<p>The reason to choose the <strong>C++ language</strong> is that I can easily practice all the programming fundamentals that I have learned yet to strengthen my concepts  of all the fundamentals, like <strong>variables, data types, literals, statements, expressions, arrays and functions.</strong></p>
 <table>
   <thead>
     <tr>
