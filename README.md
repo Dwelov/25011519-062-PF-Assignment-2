@@ -1,5 +1,7 @@
 <h1> Introduction</h1>
-<p>The reason to choose the <strong>C++ language</strong> is that I can easily practice all the programming fundamentals that I have learned yet to strengthen my concepts  of all the fundamentals, like <strong>variables, data types, literals, statements, expressions, arrays and functions.</strong></p>
+<p>The reason to choose the <strong>C++ language</strong> is that I can easily practice all the programming fundamentals that I have learned yet to strengthen my concepts  of all the fundamentals, like <strong>variables, data types, literals, statements, expressions, arrays, and functions.</strong></p>
+<br>
+<h1>Description</h1>
 <table>
   <thead>
     <tr>
@@ -9,7 +11,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Q1.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
+    <tr><td>1</td><td>Q1.cpp</td><td>Very Simple program to learn <b>variable declaration</b> and display their value on the screen.</td></tr>
     <tr><td>2</td><td>Q2.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>3</td><td>Q3.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>4</td><td>Q4.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
@@ -39,5 +41,6 @@
     <tr><td>28</td><td>Q28.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>29</td><td>Q29.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>30</td><td>Q30.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
+    <br>
   </tbody>
 </table>
