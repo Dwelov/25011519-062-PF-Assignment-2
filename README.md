@@ -50,20 +50,33 @@
 <tr><td>13</td><td>Q13.cpp</td><td>Uses define directive to calculate the area of a circle with radius input.</td></tr>
 <tr><td>14</td><td>Q14.cpp</td><td>Converts millimeters into inches using the standard conversion ratio.</td></tr>
 <tr><td>15</td><td>Q15.cpp</td><td>Swaps the values of two variables and prints the updated result.</td></tr>
-<tr><td>16</td><td>Q16.cpp</td><td>Assigns 3 to variables a b and c using one statement then finds their product.</td></tr>
+<tr><td>16</td><td>Q16.cpp</td><td>Assigns 3 to variables a b, and c using one statement, then finds their product.</td></tr>
 <tr><td>17</td><td>Q17.cpp</td><td>Separates and prints the integer and fractional parts of a real number.</td></tr>
 <tr><td>18</td><td>Q18.cpp</td><td>Computes displacement using initial velocity time and acceleration formula.</td></tr>
 
-<tr><td>19</td><td>Q19.cpp</td><td>Converts age from years into months and days then prints both values.</td></tr>
+<tr><td>19</td><td>Q19.cpp</td><td>Converts age from years into months and days, then prints both values.</td></tr>
 <tr><td>20</td><td>Q20.cpp</td><td>Prints formatted output using escape sequences like backslash and quotes.</td></tr>
 <tr><td>21</td><td>Q21.cpp</td><td>Displays a pattern of decreasing X characters using newline escape sequences.</td></tr>
-<tr><td>22</td><td>Q22.cpp</td><td>Inputs and displays a student’s name age height and gender.</td></tr>
+<tr><td>22</td><td>Q22.cpp</td><td>Inputs and displays a student’s name, age, height, and gender.</td></tr>
 <tr><td>23</td><td>Q23.cpp</td><td>Calculates and prints the area and circumference of a circle using radius input.</td></tr>
-<tr><td>24</td><td>Q24.cpp</td><td>Inputs marks of five subjects then calculates total and average marks.</td></tr>
+<tr><td>24</td><td>Q24.cpp</td><td>Inputs marks of five subjects, then calculates total and average marks.</td></tr>
 
-<tr><td>25</td><td>Q25.cpp</td><td>Computes the area of a triangle using Heron formula with given side lengths.</td></tr>
+<tr><td>25</td><td>Q25.cpp</td><td>Computes the area of a triangle using Heron's formula with given side lengths.</td></tr>
 <tr><td>26</td><td>Q26.cpp</td><td>Converts 12000 rupees into dollars using the provided exchange rate.</td></tr>
-<tr><td>27</td><td>Q27.cpp</td><td>Converts time from hours minutes and seconds into total seconds.</td></tr>
+<tr><td>27</td><td>Q27.cpp</td><td>Converts time from hours, minutes, and seconds into total seconds.</td></tr>
 <tr><td>28</td><td>Q28.cpp</td><td>Computes the discriminant using the formula disc equals b squared minus 4ac.</td></tr>
 <tr><td>29</td><td>Q29.cpp</td><td>Checks if a variable is greater than 100 and prints a message if true.</td></tr>
 <tr><td>30</td><td>Q30.cpp</td><td>Tests whether a number is odd or even using a simple if condition.</td></tr>
+<h2>How to run the Cpp Code?</h2>
+<ol>
+  <li>Install a C++ compiler such as MinGW for Windows or use g++ on Linux and Mac.</li>
+  <li>Open the terminal and navigate to the folder containing your C++ file using the <b>cd</b> command.</li>
+  <li>Compile the program by typing: <code>g++ filename.cpp -o output</code></li>
+  <li>Run the program by typing:
+    <ul>
+      <li><code>output.exe</code> on Windows</li>
+      <li><code>./output</code> on Linux or Mac</li>
+    </ul>
+  </li>
+</ol>
+
