@@ -14,9 +14,9 @@
     <tr><td>1</td><td>Q1.cpp</td><td>Very Simple program to learn <b>variable declaration</b> and display their value on the screen.</td></tr>
     <tr><td>2</td><td>Q2.cpp</td><td>Just print a sentence on the screen.</td></tr>
     <tr><td>3</td><td>Q3.cpp</td><td>I learned the interchanging of the variables using a <b>temporary variable</b>.</td></tr>
-    <tr><td>4</td><td>Q4.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
-    <tr><td>5</td><td>Q5.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
-    <tr><td>6</td><td>Q6.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
+    <tr><td>4</td><td>Q4.cpp</td><td>Declaring a variable and assigning it some value, then calculating<br> an expression using that variable and printing the result on the screen.</td></tr>
+    <tr><td>5</td><td>Q5.cpp</td><td>In this program, I learn how to perform <b>arithmetic operations</b> on the variables.</td></tr>
+    <tr><td>6</td><td>Q6.cpp</td><td>I learn <b>inputting the value of the variable</b> and applying the expression  to <br>that variable, then printing the result of the expression.</td></tr>
     <tr><td>7</td><td>Q7.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>8</td><td>Q8.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>9</td><td>Q9.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
