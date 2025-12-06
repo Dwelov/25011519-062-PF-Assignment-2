@@ -12,8 +12,8 @@
   </thead>
   <tbody>
     <tr><td>1</td><td>Q1.cpp</td><td>Very Simple program to learn <b>variable declaration</b> and display their value on the screen.</td></tr>
-    <tr><td>2</td><td>Q2.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
-    <tr><td>3</td><td>Q3.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
+    <tr><td>2</td><td>Q2.cpp</td><td>Just print a sentence on the screen.</td></tr>
+    <tr><td>3</td><td>Q3.cpp</td><td>I learned the interchanging of the variables using a <b>temporary variable</b>.</td></tr>
     <tr><td>4</td><td>Q4.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>5</td><td>Q5.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
     <tr><td>6</td><td>Q6.cpp</td><td>Placeholder description. Replace with exact behaviour.</td></tr>
