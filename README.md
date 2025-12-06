@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>Class</td>
-    <td>AI B</td>
+    <td>AI-B</td>
   </tr>
 </table>
 
